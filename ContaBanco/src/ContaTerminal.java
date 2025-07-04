@@ -9,7 +9,7 @@ public class ContaTerminal {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
 
-        System.out.println("Digite se Nome: ");
+        System.out.println("Digite seu Nome: ");
         String nomeCliente = scanner.next();
 
         System.out.println("Digite o numero da Agencia: ");
