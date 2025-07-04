@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class ContaTerminal {
     
 
+    @SuppressWarnings("resource")
     public static void main(String[] args) throws Exception {
         
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);

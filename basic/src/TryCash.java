@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class TryCash {
     
+    @SuppressWarnings("resource")
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
