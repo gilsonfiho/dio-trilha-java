@@ -9,7 +9,6 @@ public class TiposVariaveis {
     short numeroCurto = 1;
     int numeroNormal = numeroCurto;
     short numeroCurto2 = (short)numeroNormal; //casting 
-    
 
     final double VALOR_DE_PI = 3.141592653589; //Definição de Constante (Não pode mudar seu valor)
 }
