@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "CadastroProdutos",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "TryCash",
+            "request": "launch",
+            "mainClass": "TryCash",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "candidatura.ProcessoSeletivo",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "msn.ComputadorPedrinho",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "veiculo.Autodromo",
+            "projectName": "dio-trilha-java_d8ff367c"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "AgendaContatos",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "AgendaEventos",
+            "request": "launch",
+            "mainClass": "AgendaEventos",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "ConjuntoConvidados",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "ContaTerminal(1)",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "ContagemPalavras",
+            "request": "launch",
+            "mainClass": "ContagemPalavras",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "Dicionario",
+            "request": "launch",
+            "mainClass": "Dicionario",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "EstoqueProdutos",
+            "request": "launch",
+            "mainClass": "EstoqueProdutos",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "For(1)",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "LivrariaOnline",
+            "request": "launch",
+            "mainClass": "LivrariaOnline",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "Operadores(1)",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoNumeros",
+            "request": "launch",
+            "mainClass": "OrdenacaoNumeros",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoPessoa",
+            "request": "launch",
+            "mainClass": "OrdenacaoPessoa",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "TryCash(1)",
+            "request": "launch",
+            "mainClass": "TryCash",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "Usuario(1)",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo(1)",
+            "request": "launch",
+            "mainClass": "candidatura.ProcessoSeletivo",
+            "projectName": "dio-trilha-java"
+        }
+    ]
+}

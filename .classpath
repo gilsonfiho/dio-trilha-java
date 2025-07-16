@@ -5,6 +5,13 @@
 	<classpathentry kind="src" path="ContaBanco/src"/>
 	<classpathentry kind="src" path="controle-candidatos/src"/>
 	<classpathentry kind="src" path="smart-tv/src"/>
+	<classpathentry kind="src" path="collections/src/main/set/OperacoesBasicas"/>
+	<classpathentry kind="src" path="collections/src/main/list/OperacoesBasicas"/>
+	<classpathentry kind="src" path="collections/src/main/map/OperacoesBasicas"/>
+	<classpathentry kind="src" path="collections/src/main/map/Ordenacao"/>
+	<classpathentry kind="src" path="collections/src/main/list/Ordenacao"/>
+	<classpathentry kind="src" path="collections/src/main/map/Pesquisa"/>
 	<classpathentry kind="src" path="collections/src/main/set/Ordenacao"/>
+	<classpathentry kind="src" path="collections/src/main/java/set/OperacoesBasicas"/>
 	<classpathentry kind="output" path="ContaBanco/bin"/>
 </classpath>

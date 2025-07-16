@@ -1,4 +1,4 @@
-package main.set.Ordenacao;
+package main.set.ordenacao;
 
 import java.util.HashSet;
 import java.util.Set;
