@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConsumerExample",
+            "request": "launch",
+            "mainClass": "ConsumerExample",
+            "projectName": "dio-trilha-java"
+        },
+        {
+            "type": "java",
             "name": "CadastroProdutos",
             "request": "launch",
             "mainClass": "CadastroProdutos",

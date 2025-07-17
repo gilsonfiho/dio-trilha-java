@@ -13,5 +13,6 @@
 	<classpathentry kind="src" path="collections/src/main/map/Pesquisa"/>
 	<classpathentry kind="src" path="collections/src/main/set/Ordenacao"/>
 	<classpathentry kind="src" path="collections/src/main/java/set/OperacoesBasicas"/>
+	<classpathentry kind="src" path="Stream/src"/>
 	<classpathentry kind="output" path="ContaBanco/bin"/>
 </classpath>

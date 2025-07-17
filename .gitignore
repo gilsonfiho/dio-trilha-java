@@ -27,3 +27,13 @@ ContaBanco/.vscode/settings.json
 smart-tv/.vscode/settings.json
 controle-candidatos/.vscode/settings.json
 DesafioControleFluxo/.vscode/settings.json
+ContaBanco/bin/.vscode/settings.json
+
+
+basic/bin
+collections/bin
+ContaBanco/bin
+smart-tv/bin
+controle-candidatos/bin
+DesafioControleFluxo/bin
+Stream/bin
